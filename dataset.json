@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Virginia Beach, US",
+  "export_job_id": "bed120ee-5dfa-4f25-8e5a-d32463e8e5be",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 299301,
+  "location_name": "Virginia Beach",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-virginia-beach-us-sample-299301",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/299301/beamstation_299301_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 39,
+  "sample_sha256": "e4155929bc0b22c58c35e865787d2828c75a9b6c14dcd41f79f7b4e3ff7d298b",
+  "sample_size_bytes": 177318,
+  "total_records": 394,
+  "updated_at": "2026-04-07T17:18:19.625966+00:00"
+}
