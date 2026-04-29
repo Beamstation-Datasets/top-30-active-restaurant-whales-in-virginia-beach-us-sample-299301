@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Virginia Beach, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `299301` |
 | Location | Virginia Beach |
 | Category | Restaurants |
-| Full dataset size | 210 records |
-| Free sample size | 21 records (10.0%) |
-| Last export | 2026-04-22T02:10:55.397107+00:00 |
+| Full dataset size | 94 records |
+| Free sample size | 9 records (9.57%) |
+| Last export | 2026-04-29T05:15:27.951723+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-virginia-beach-us-sample-299301/releases/download/sample-latest/beamstation_299301_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
