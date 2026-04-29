@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1a3a53c3-2358-40e5-bba4-b60f71c1757a",
+  "export_job_id": "e49ac071-2975-4418-b770-4ead9530a5ba",
   "id_short": 299301,
-  "published_at": "2026-04-22T07:19:34Z",
+  "published_at": "2026-04-29T07:31:48Z",
   "repo_name": "top-30-active-restaurant-whales-in-virginia-beach-us-sample-299301",
   "sample_asset_name": "beamstation_299301_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/299301/beamstation_299301_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "7889b5e87695a5d0dcf47702c60e6e80337f410eda5541480ed20934d801771f",
-  "sample_size_bytes": 104304,
-  "total_records": 210
+  "sample_records": 9,
+  "sample_sha256": "faba5c6993a0a90755a10a9572b7a221fd4172c6489d20a3a3f730e7d570af36",
+  "sample_size_bytes": 53209,
+  "total_records": 94
 }
